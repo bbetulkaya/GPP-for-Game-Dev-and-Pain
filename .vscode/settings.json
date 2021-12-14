@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "game_over.C": "cpp"
+        "game_over.C": "cpp",
+        "ctime": "cpp"
     }
 }
